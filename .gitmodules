@@ -1,0 +1,28 @@
+[submodule "lms-orchestrator-microservice"]
+	path = lms-orchestrator-microservice
+	url = https://github.com/tbreitenfeldt/lms-orchestrator-microservice.git
+	branch = master
+[submodule "lms-angular-ui"]
+	path = lms-angular-ui
+	url = https://github.com/tbreitenfeldt/lms-angular-ui.git
+	branch = master
+[submodule "lms-swagger"]
+	path = lms-swagger
+	url = https://github.com/tbreitenfeldt/lms-swagger.git
+	branch = master
+[submodule "lms-librarian-microservice"]
+	path = lms-librarian-microservice
+	url = https://github.com/tbreitenfeldt/lms-librarian-microservice.git
+	branch = master
+[submodule "lms-administrator-microservice"]
+	path = lms-administrator-microservice
+	url = https://github.com/tbreitenfeldt/lms-administrator-microservice.git
+	branch = master
+[submodule "lms-borrower-microservice"]
+	path = lms-borrower-microservice
+	url = https://github.com/tbreitenfeldt/lms-borrower-microservice.git
+	branch = master
+[submodule "eureka-microservice"]
+	path = eureka-microservice
+	url = https://github.com/tbreitenfeldt/eureka-microservice.git
+	branch = master
